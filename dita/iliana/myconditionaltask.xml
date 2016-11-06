@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<!-- Created with XMetaL (http://www.xmetal.com) -->
+<task id="task_688E7C8ACA704F449BDA852407BEC9A1"> 
+  <title>Copy Files</title> 
+  <shortdesc>You will learn how to run conditional processing by using the DITA
+	 open toolkit. 
+  </shortdesc> 
+  <taskbody> 
+	 <steps id="steps_3BB415F25D594650A8917F67DE2F6A46"> 
+		<step id="step_340A2B30A78E4ED3876BA8AA38718858" audience="administrator"
+		 platform="linux"> 
+		  <cmd>Open a Terminal window. 
+		  </cmd> 
+		</step> 
+		<step id="step_C1A7729969DD4BBEAF514591B5934DD1" audience="administrator"
+		 platform="Windows"> 
+		  <cmd>Open a command prompt window. 
+		  </cmd> 
+		</step> 
+		<step platform="linux" audience="administrator"
+		 id="step_AA39AB93E4164C8A9218B2C9AA68AB36"> 
+		  <cmd>Run the following command to copy the 
+			 <filepath>/root/tmp</filepath> folder to 
+			 <filepath>/tmp/tmp</filepath>. 
+		  </cmd> 
+		  <info> 
+			 <codeblock>cp /root/dir1 /root/dir2</codeblock> 
+		  </info> 
+		</step> 
+		<step id="step_60CEA4B5904B4906B135BC533BDAB6A8" platform="Windows" audience="administrator"> 
+		  <cmd>Run the following command to copy the 
+			 <filepath>D:\dir1</filepath> folder to 
+			 <filepath>D:\dir2</filepath> folder. 
+		  </cmd> 
+		  <info>
+			 <codeblock>copy D:\dir1 D:\dir2</codeblock>
+		  </info>
+		</step> 
+
+	<step id="step_60CEA4B5904B4906B135BC533BDAB6B8"> 
+		  <cmd>Run the following command to copy the 
+			 <filepath>D:\dir1</filepath> folder to 
+			 <filepath>D:\dir2</filepath> folder. 
+		  </cmd> 
+		  <info>
+			 <codeblock>copy D:\dir1 D:\dir2</codeblock>
+			 <p>Pushing this step...</p>
+		  </info>
+		</step> 
+		
+	</steps> 
+  </taskbody> 
+</task> 

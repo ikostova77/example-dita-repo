@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<val>
+	<prop att="platform" val="linux" action="include"/>
+	<prop att="platform" val="Windows" action="exclude"/>
+	<prop att="audience" val="administrator" action="include"/>
+</val>
