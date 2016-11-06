@@ -8,7 +8,7 @@
  *-->
 <task id="changeoil" xml:lang="en-us">
 <title>Changing the oil in your car</title>
-<shortdesc>Once every 6000 kilometers or three months, change the oil in
+<shortdesc><draft-comment author="ikostova">This task is used in a methed HTML page</draft-comment> Once every 6000 kilometers or three months, change the oil in
 your car.</shortdesc>
 <taskbody>
 <context><p>Changing the oil regularly 
