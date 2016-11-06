@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<!-- Created with XMetaL (http://www.xmetal.com) -->
+<task id="task_688E7C8ACA704F449BDA852407BEC9A1"> 
+  <title>Copy Files (Use Keys)</title> 
+  <shortdesc>You will learn how to run conditional processing by using the DITA
+	 open toolkit. 
+  </shortdesc> 
+  <taskbody> 
+	 <steps id="steps_3BB415F25D594650A8917F67DE2F6A46"> 
+		<step id="step_E3EB921EB47D483299E7DFE8274A88AA"
+		 conkeyref="ilianapull/step_340A2B30A78E4ED3876BA8AA38718858"> 
+		  <cmd/> 
+		</step> 
+		<step id="step_A66A180AC00941C5AD9164B782342AAB"
+		 conkeyref="ilianapull/step_AA39AB93E4164C8A9218B2C9AA68AB36"> 
+		  <cmd/> 
+		</step>
+		<step id="step_111B761B3B3C468E9B09473AB328459C">
+		  <cmd>To be pushed.
+		  </cmd>
+		</step> 
+	 </steps> 
+  </taskbody> 
+</task> 
